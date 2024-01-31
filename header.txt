@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Realtor Wizard  | Short description about company">
+    <meta name="author" content="IntelSoft">
+    <title>SmartRealtor | Give unique title of the page here</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap responsive -->
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+    <!-- Font awesome - iconic font with IE7 support --> 
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/font-awesome-ie7.css" rel="stylesheet">
+    <!-- SmartRealtor theme -->
+    <link href="css/boot-business.css" rel="stylesheet">
+    <!-- SmartRealtor Menu Hover theme -->
+      <link href="css/menu-hover/menu-hover.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <!-- Start: HEADER -->
+    <header>
+      <!-- Start: Navigation wrapper -->
+      <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+          <div class="container">
+            <a href="index.html" class="brand brand-bootbus">SmartRealtor</a>
+            <!-- Below button used for responsive navigation -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <!-- Start: Primary navigation -->
+            <div class="nav-collapse collapse">        
+              <ul class="nav pull-right">           
+<div class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:120%; color:White; 
+  padding: 10px;">Properties and Services  <b class="caret"></b></a>     
+ <div class="dropdown-content">                
+                     <li class="nav-header">Properties</li>
+                    <li><a href="product.html">Residential</a></li>
+                    <li><a href="product.html">Commercial </a></li>
+                    <li><a href="product.html">Others</a></li>
+                    <li><a href="all_products.html">All Properties</a></li>             
+                    <li class="divider"></li>
+                    <li class="nav-header">Services</li>
+                    <li><a href="service.html">Residential </a></li>
+                    <li><a href="service.html">Commercial </a></li>
+                    <li><a href="service.html">Others</a></li>
+                    <li><a href="all_services.html">All services</a></li>
+</div>
+</div>
+<div class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:120%; 
+  padding: 5px; color:White;">Buying & Selling  <b class="caret"></b></a>               
+     <div class="dropdown-content">                   
+                       <li class="nav-header">Buying</li>
+                    <li><a href="product.html">Residential</a></li>
+                    <li><a href="product.html">Commercial </a></li>
+                    <li><a href="product.html">Others</a></li>
+                    <li><a href="all_products.html">All Properties</a></li>             
+                    <li class="divider"></li>
+                    <li class="nav-header">Selling</li>
+                    <li><a href="service.html">Residential </a></li>
+                    <li><a href="service.html">Commercial </a></li>
+                    <li><a href="service.html">Others</a></li>
+                    <li><a href="all_services.html">All Properties</a></li>                   
+</div>
+</div>
+
+
+<div class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:120%; 
+  padding: 5px; color:White;">Offers  <b class="caret"></b></a>  
+              
+     <div class="dropdown-content">
+              
+                     <li class="nav-header">Offers</li>
+                    <li><a href="product.html">Residential</a></li>
+                    <li><a href="product.html">Commercial</a></li>
+                    <li><a href="product.html">Others</a></li>
+                    <li><a href="all_products.html">All Offers</a></li>             
+          
+</div>
+</div>
+
+<div class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:120%; 
+  padding: 5px; color:White;">Resources<b class="caret"></b></a>                
+     <div class="dropdown-content">        
+                                         
+                       <li class="nav-header">Realtor</li>
+                    <li><a href="product.html">Maintenance</a></li>
+                    <li><a href="product.html">Repair</a></li>
+                    <li><a href="product.html">Others</a></li>
+                    <li><a href="all_products.html">All Resources</a></li>             
+                    
+ 
+</div>
+</div>
+       <div class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" style="font-size:120%; 
+  padding: 5px; color:White;">About  <b class="caret"></b></a>  
+                  <div class="dropdown-content">
+                    <li><a href="our_works.html">Our works</a></li>
+                    <li><a href="patnerships.html">Parnerships</a></li>
+                    <li><a href="leadership.html">Leadership</a></li>
+                     <li><a href="news.html">News</a></li>
+                    <li><a href="Commercial .html">Commercial </a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                   </div>                 
+                    </div> 
+
+          
+
+             <div class="dropdown">
+                <li><a href="faq.html" style="font-size:120%; 
+  padding: 5px; color:White;">FAQ   </a></li>
+                     <div class="dropdown-content">
+                    <li><a href="our_works.html">Detail FAQs</a></li>
+                      </div>                 
+                    </div>
+
+	
+<div class="dropdown">
+                <li><a href="story.html" style="font-size:120%; 
+  padding: 5px; color:White;">Story   </a></li>
+                     <div class="dropdown-content">
+                    <li><a href="story.html">Detail Story</a></li>
+                      </div>                 
+                    </div> 
+
+                
+<div class="dropdown">
+                <li><a href="contact_us.html" style="font-size:120%; 
+  padding: 5px; color:White;">Contact us  </a></li>
+                     <div class="dropdown-content">
+                    <li><a href="contact_us.html" style="font-size:120%; 
+  padding: 5px; color:White;">Contact Form</a></li>
+                          </div>                 
+                    </div> 
+
+                
+<div class="dropdown">
+                <li><a href="signup.html" style="font-size:120%; 
+  padding: 5px; color:White;">Sign up  </a></li>
+                     <div class="dropdown-content">
+                    <li><a href="signup.html">Sign up Form</a></li>
+                      </div>                 
+                    </div> 
+
+                
+<div class="dropdown">
+                <li><a href="signin.html" style="font-size:120%; 
+  padding: 5px; color:White;">Sign in  </a></li>  
+                     <div class="dropdown-content">
+                    <li><a href="signin.html">Sign In Form</a></li>
+                      </div>                 
+                    </div> 
